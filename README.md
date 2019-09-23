@@ -1,4 +1,4 @@
-## Learn about RabbitMQ using Offical Docs in Python
+## Learn [RabbitMQ](https://www.rabbitmq.com/) using Offical Docs in Python
 
 All scripts follow pika library.
 
